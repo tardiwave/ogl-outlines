@@ -71,7 +71,7 @@ async function createModel() {
 
   model = new Transform();
 
-  gltf = await GLTFLoader.load(gl, "/assets/computer.glb");
+  gltf = await GLTFLoader.load(gl, "/assets/monkey.glb");
 
   const gltfScene = gltf.scene || gltf.scenes[0];
   gltfScene.forEach((root) => {

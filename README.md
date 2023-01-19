@@ -4,7 +4,7 @@
 
 Adaptation of OmarShehata's [project](https://github.com/OmarShehata/webgl-outlines).
 
-Check the [Demo](https://nodejs.org/).
+Check the [Demo](https://ogl-outlines.vercel.app/).
 
 ---
 
